@@ -1,1 +1,1 @@
-worker : npm i && node index.js
+process: npm i && node index.js
